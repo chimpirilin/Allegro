@@ -1,0 +1,1 @@
+If the polygon is not convex then it won't be triangulated correctly. Check this one that can triangulate concave polygons: https://github.com/ThrashansEXE/Computational-geometry/tree/master/TriangulacionEarClipping
